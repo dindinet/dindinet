@@ -1,4 +1,4 @@
-application: www-dindinet-3
+application: wh-dindinet-3
 version: 1
 runtime: python27
 api_version: 1
