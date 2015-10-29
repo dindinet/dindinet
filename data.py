@@ -1,1 +1,1 @@
-only yaba
+shabatty
